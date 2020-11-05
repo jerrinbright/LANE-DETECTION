@@ -1,4 +1,4 @@
-# Lane-detection
+# Lane-detection-for-self-driving-cars
 
 Autonomous lane detection for self-driving cars using Hough lines, Masking, Canny filters, and Gaussian filters
 Primary libraries used in this project are OpenCv, NumPy, and matplotlib. 
