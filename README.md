@@ -15,4 +15,4 @@ Combining Canny filters and masking images
 Hough lines
 Output image
 
-For line by line explaining and detailing, you can view valueml.com/autonomous-lane-detection-for-self-driving-cars-in-python.
+For line by line explaining and detailing, you can view https://valueml.com/autonomous-lane-detection-for-self-driving-cars-in-python.
