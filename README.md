@@ -1,6 +1,4 @@
 # Lane-detection
-https://valueml.com/wp-content/uploads/2020/10/download-5-1.png
-https://valueml.com/wp-content/uploads/2020/10/download-3-1.png
 
 Autonomous lane detection for self-driving cars using Hough lines, Masking, Canny filters, and Gaussian filters
 Primary libraries used in this project are OpenCv, NumPy, and matplotlib. 
