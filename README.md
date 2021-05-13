@@ -1,4 +1,4 @@
-# Lane-detection-for-self-driving-cars
+# Lane-detection USING Hough lines
 
 Autonomous lane detection for self-driving cars using Hough lines, Masking, Canny filters, and Gaussian filters
 Primary libraries used in this project are OpenCv, NumPy, and matplotlib. 
@@ -18,7 +18,7 @@ Output image
 For line by line explaining and detailing, you can view https://valueml.com/autonomous-lane-detection-for-self-driving-cars-in-python.
 
 
-# LANE-DETECTION-USING-CNN
+# Lane Detection using CNN
 
 Lane detection for autonomous vehicles with the help of convolutional neural networks is done. We have previously worked on Lane detection using Canny edge and Hough lines. But they are not the best method/ technique that can be used for autonomous lane detection. For good performance of the canny detectors, we will have to mask the desired region of interest (ROI) which varies from one vehicle to another. Moreover, those filters and edge detectors tend to perform relatively poorly in high steep areas. Also, with real-life observations using monocular cameras shadows, glares and rapid movement of the vehicle tend to result in poor frame clarity resulting in inaccurate detection. Thus, the introduction of neural networks for lane detection tends to solve the above-mentioned issues and thereby increasing the robustness and accuracy of the system.
 
