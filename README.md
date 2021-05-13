@@ -34,4 +34,4 @@ The article consists of 2 python files and thus two sections for the ease of und
 
 ## My BLOG
 
-For line by line explaining and detailing, you can <a href="https://valueml.com/autonomous-lane-detection-for-self-driving-cars-in-python."/>
+For line by line explaining and detailing, you can <a href="https://valueml.com/autonomous-lane-detection-for-self-driving-cars-in-python.">click here</a>
