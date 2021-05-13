@@ -32,6 +32,6 @@ The pipeline of the architecture reflected in this project are:
 </ul>
 The article consists of 2 python files and thus two sections for the ease of understanding of the user. The first section/ python file will train the network and save the model. The second python file will implement the detection of lines in the input image/ video. We will use video in this article, as we will get video from monocular cameras in real-time for detection.
 
-## My BLOG
+## My Blog
 
-For line by line explaining and detailing, you can <a href="https://valueml.com/autonomous-lane-detection-for-self-driving-cars-in-python.">click here</a>
+For line by line explaining and detailing, you can <a href="https://valueml.com/autonomous-lane-detection-for-self-driving-cars-in-python.">click here</a> to through my blog on lane detection. 
