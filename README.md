@@ -1,8 +1,6 @@
 # Lane-detection USING Hough lines
 
-Autonomous lane detection for self-driving cars using Hough lines, Masking, Canny filters, and Gaussian filters<br>
-Primary libraries used in this project are OpenCv, NumPy, and matplotlib. <br>
-This technology has a lot of real-life applications including self-driving cars to detect lanes accurately and traverse accordingly in real time.<br>
+Autonomous lane detection for self-driving cars using Hough lines, Masking, Canny filters, and Gaussian filters. Primary libraries used in this project are OpenCv, NumPy, and matplotlib. This technology has a lot of real-life applications including self-driving cars to detect lanes accurately and traverse accordingly in real time.<br>
 
 The steps involved in this project are listed below:
 <ul>
