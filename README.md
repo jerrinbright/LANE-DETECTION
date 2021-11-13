@@ -19,11 +19,11 @@ The steps involved in this project are listed below:
 
 Some assumptions/ shortcomings of Method 1 include: 
 <ul>
-<li> Masking of the desired region of interest (ROI) which will vary from one vehicle to another. </li>
-<li> Filters and edge detectors tend to perform poorly in high steep areas.</li>
-<li> Shadows, glares and rapid movement of the vehicle results in poor frame clarity</li>
+  <li> Masking of the desired region of interest (ROI) which will vary from one vehicle to another. </li>
+  <li> Filters and edge detectors tend to perform poorly in high steep areas.</li>
+  <li> Shadows, glares and rapid movement of the vehicle results in poor frame clarity</li>
 <ul>
-
+  
 ## METHOD 2: Lane Detection using CNN
 
 Lane detection for autonomous vehicles with the help of Convolutional Neural Networks (CNN) is experimented with in this section. The reasons/ shortcomings of Method 1 is discussed above and thus, CNNs where used to increase the robustness and reliability of the system.<br>
