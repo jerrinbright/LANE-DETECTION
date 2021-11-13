@@ -15,6 +15,8 @@ The steps involved in this project are listed below:
   <li>Output image</li>
 </ul>
 
+The Method consists of 1 python script- ```canny_edge.ipynb``` which executes the proposed algorithm. 
+
 ## SHORTCOMINGS OF METHOD 1
 
 Some assumptions/ shortcomings of Method 1 include: 
@@ -38,4 +40,4 @@ The pipeline of the architecture reflected in this Method is:
   <li>Prediction in real-time</li>
 </ul>
   
-The Method consists of 2 python files- ```fully_conv_NN.py``` (training) and ```draw_detected_lanes.py``` (testing) for the ease of access. The first python file will train the network and save the model in h5 format (```full_CNN_model.h5```). The second python file will implement the detection of lines in the input image/ video.
+The Method consists of 3 python scripts- ```fully_conv_NN.py``` (training), ```draw_detected_lanes.py``` (testing) and ```test.ipynb``` for the ease of access. The first python script will train the network and save the model in h5 format (```full_CNN_model.h5```). The second python script will implement the detection of lines in the input image/ video and third python script will test the model.
