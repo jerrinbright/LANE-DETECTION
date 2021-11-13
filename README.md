@@ -22,7 +22,7 @@ Some assumptions/ shortcomings of Method 1 include:
   <li> Masking of the desired region of interest (ROI) which will vary from one vehicle to another. </li>
   <li> Filters and edge detectors tend to perform poorly in high steep areas.</li>
   <li> Shadows, glares and rapid movement of the vehicle results in poor frame clarity</li>
-<ul>
+</ul>
   
 ## METHOD 2: Lane Detection using CNN
 
